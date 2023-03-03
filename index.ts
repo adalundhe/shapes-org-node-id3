@@ -29,7 +29,6 @@ export {
     ReadCallback
 } from "./src/api/read"
 export {
-    removeTags,
     removeTagsFromBuffer,
     RemoveCallback
 } from "./src/api/remove"
@@ -41,9 +40,3 @@ export {
     WriteCallback
 } from "./src/api/write"
 
-// Promises
-
-export {
-    Promises,
-    Promise
-} from "./src/api/promises"
