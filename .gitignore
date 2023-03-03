@@ -1,0 +1,10 @@
+*.mp3
+*.jpeg
+*.jpg
+*.png
+node_modules
+dist
+package-lock.json
+.idea
+.nyc_output
+coverage
